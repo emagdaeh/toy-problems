@@ -31,7 +31,7 @@ Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
 */
 
- var kidsWithCandies = function(candies, extraCandies) {
+var kidsWithCandies = function(candies, extraCandies) {
   // I: Array of integers and a single integer
   // O: Array of booleans
   // C: None

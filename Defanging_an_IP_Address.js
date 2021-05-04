@@ -20,7 +20,7 @@ The given address is a valid IPv4 address.
 
 */
 
- var defangIPaddr = function(address) {
+var defangIPaddr = function(address) {
   const replacement = '[.]';
 
   let split = address.split('');
